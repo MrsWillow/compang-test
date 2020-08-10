@@ -1,10 +1,9 @@
 # vue
 
-> A Vue.js project
+>company test
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
